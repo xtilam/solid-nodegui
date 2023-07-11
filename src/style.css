@@ -1,0 +1,9 @@
+*{
+    font-size: 18px;
+    font-family: "Consolas";
+}
+.btn{
+    background-color: rgb(65, 37, 94) !important; 
+    border: none;
+    color: white
+}
